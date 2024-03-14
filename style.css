@@ -1,0 +1,64 @@
+body  {
+  margin:0;
+}
+.body {
+  font-family:"Montserrat", sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: whitesmoke;
+}
+.header {
+  font-family: "Amatic SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: xx-large;
+  background-image: url('https://codetheweb.blog/assets/img/posts/css-advanced-background-images/cover.jpg');
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  padding: 100px;
+  text-align:center;
+}
+.article {
+  font-family: "Fira Sans Extra Condensed", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: large;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.h2 {
+  font-family: "Amatic SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: x-large;
+}
+#h3 {
+  font-weight: 100;
+}
+.p {
+  font-size: 1.1em;
+  margin-bottom: 20px;
+}
+.img {
+  max-width: 100%;
+  height: auto;
+}
+.hover{
+  font-family: "Amatic SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: xx-large;
+  height: 2.8rem;
+  width: 10.6rem;
+  background-color: #8f5c0f93;
+}
+a:hover {
+  background-color: #a86d14;
+}
+a{
+  text-decoration:0;
+  transition: 0.4s ease;
+}
